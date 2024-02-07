@@ -45,3 +45,12 @@ p {
     left: 25%;
     right: 25%;
 }
+
+#mainRecipeList{
+    text-align: center;
+}
+
+#mainRecipeList ul{
+    display: inline-block;
+    text-align: left;
+}
