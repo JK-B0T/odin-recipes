@@ -1,17 +1,47 @@
 body {
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(41, 41, 41);
 }
+
+div{
+    position: relative;
+}
+
 img {
+    display: block;
     height: 500px;
     width: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
-    color: darkgreen;
-    font-family: Garamond;
+    text-align: center;
+    color: lime;
+    font-family: Georgia;
     text-decoration: underline;
 }
 
+h3,
+li,
 p {
-    font-family: Garamond;
+    color:whitesmoke;
+    text-justify: inter-word;
+    text-align: justify;
+}
+
+h3 {
+    font-family: Georgia, Garamond, Verdana, Arial;
+    font-weight: bold;
+}
+
+li,
+p {
+    font-family: "Lucida Console", Garamond, Verdana, Arial;
+}
+
+.mainRecipeImage{
+    position: absolute;
+    top: 3%;
+    left: 25%;
+    right: 25%;
 }
