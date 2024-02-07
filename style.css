@@ -17,7 +17,7 @@ img {
 h1 {
     text-align: center;
     color: lime;
-    font-family: Georgia;
+    font-family: Georgia, Garamond, Verdana, Arial;
     text-decoration: underline;
 }
 
