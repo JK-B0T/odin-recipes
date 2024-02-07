@@ -1,0 +1,17 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+img {
+    height: 500px;
+    width: auto;
+}
+
+h1 {
+    color: darkgreen;
+    font-family: Garamond;
+    text-decoration: underline;
+}
+
+p {
+    font-family: Garamond;
+}
