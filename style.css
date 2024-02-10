@@ -10,8 +10,6 @@ img {
     display: block;
     height: 500px;
     width: auto;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 h1 {
@@ -40,7 +38,7 @@ p {
 }
 
 .mainRecipeImage{
-    margin-top: -32.7em;
+    margin: -32.7em auto 0;
     border: 2px solid grey;
 }
 
