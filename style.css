@@ -2,10 +2,6 @@ body {
     background-color: rgb(41, 41, 41);
 }
 
-div{
-    position: relative;
-}
-
 img {
     display: block;
     height: 500px;
