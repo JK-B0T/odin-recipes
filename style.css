@@ -21,11 +21,14 @@ p {
     color:whitesmoke;
     text-justify: inter-word;
     text-align: justify;
+    margin: 0 auto;
+    width: 1000px;
 }
 
 h3 {
     font-family: Georgia, Garamond, Verdana, Arial;
     font-weight: bold;
+    margin-top: 2em;
 }
 
 li,
