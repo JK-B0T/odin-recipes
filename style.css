@@ -9,8 +9,12 @@ img {
 }
 
 h1 {
+    margin: 0 auto;
+    width: 20em;
     text-align: center;
     color: lime;
+    border: 8px double green;
+    background-color: black;
     font-family: Georgia, Garamond, Verdana, Arial;
     text-decoration: underline;
 }
@@ -19,7 +23,6 @@ h3,
 li,
 p {
     color:whitesmoke;
-    text-justify: inter-word;
     text-align: justify;
     margin: 0 auto;
     width: 1000px;
@@ -28,6 +31,10 @@ p {
 h3 {
     font-family: Georgia, Garamond, Verdana, Arial;
     font-weight: bold;
+    color:darkgreen;
+    text-align: center;
+    border: 8px double green;
+    background-color: lightgrey;
     margin-top: 2em;
 }
 
@@ -42,10 +49,14 @@ p {
 }
 
 #mainRecipeList{
-    text-align: center;
+    width: 35em;
+    margin: 0 auto;
 }
 
-#mainRecipeList ul{
-    display: inline-block;
-    text-align: left;
+#mainRecipeList ul li{
+    margin: 16px;
+    width: 30em;
+    border: 8px double green;
+    background-color: lightgrey;
+    text-align: center;
 }
