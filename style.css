@@ -40,10 +40,7 @@ p {
 }
 
 .mainRecipeImage{
-    position: absolute;
-    top: 2.5%;
-    left: 25%;
-    right: 25%;
+    margin-top: -32.7em;
     border: 2px solid grey;
 }
 
